@@ -26,18 +26,11 @@
 - Modified By @uoaio - .gg/uoaio
 
 ## ✨ Discord Profile
-<div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; background: #1e1e2f; text-align: center; color: white;">
-  <a href="https://discord.com/users/1228222182404919328" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1228222182404919328?theme=dark&borderRadius=10px&showStatus=true" 
-         alt="Discord Presence"
-         style="width: 100%; max-width: 400px; border-radius: 10px;"/>
+<div align="center">
+  <a width="100%" href="https://discord.gg/t2xwKZzGrp"  target="_blank">
+    <img align="mid" height="100%" width="100%" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-1/1228222182404919328.png">
   </a>
-  <p style="margin-top: 10px; font-weight: bold;">
-    Your one click can help this repo grow:<br>Leave a star ⭐ on GitHub!
-  </p>
-  <p style="margin-top: 10px;">
-    Join our Discord server: <br>
-    <a href="https://discord.gg/t2xwKZzGrp" target="_blank" style="color: #7289da; font-weight: bold;">
-    </a>
-  </p>
 </div>
+
+
+<div align="center">
