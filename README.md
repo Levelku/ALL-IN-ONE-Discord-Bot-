@@ -27,7 +27,8 @@
 
 ## ✨ Discord Profile
 <div align="center">
-  <a width="100%" <a href="https://discord.com/users/1228222182404919328"><img src="https://lanyard.cnrad.dev/api/1228222182404919328?showDisplayName=true&theme=dark" /></a>
+  <a width="100%" <a [![Discord Presence](https://lanyard.cnrad.dev/api/1228222182404919328?showDisplayName=true&theme=dark)](https://discord.com/users/1228222182404919328)
+  </a>
   </a>
 </div>
 
